@@ -22,9 +22,9 @@ Experimentación	T-SQL, notebooks Python/PySpark	Medición de rendimiento, índi
 **Estructura y archivos del repositorio**
 
 Panaderia-Zerrillo-BDA/
-├── Capturas/                   # Imágenes y evidencias publicadas
-├── ETL_Panaderia_Estrella.sql  # Script del modelo analítico y ETL
-├── Zerillo BD.sql              # Script de base de datos operacional
-├── Zerrillo_Excel.xlsx         # Dataset de referencia en Excel
-├── proyecto_bd_T2.pbix         # Dashboard Power BI
-└── README.md                   # Documentación general (este archivo)
+- ├── Capturas/                   # Imágenes y evidencias publicadas
+- ├── ETL_Panaderia_Estrella.sql  # Script del modelo analítico y ETL
+- ├── Zerillo BD.sql              # Script de base de datos operacional
+- ├── Zerrillo_Excel.xlsx         # Dataset de referencia en Excel
+- ├── proyecto_bd_T2.pbix         # Dashboard Power BI
+- └── README.md                   # Documentación general (este archivo)
